@@ -1,7 +1,7 @@
 Coursera Data Science - Capstone Project
 ========================================================
 author: Kushan Sarathchandra
-date: Sun Jul 18 13:37:58 2021
+date: `r date()`
 
 
 ![header](./www/banner.png)
